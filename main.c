@@ -3,16 +3,8 @@
 /*
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
-<<<<<<< HEAD
-<<<<<<< HEAD
-
  *      Daniel G Agregue La funcion HolaSoyGabogod
-
  *      Gustavo Aguegue la funcion Holasoytavo
- *	
- * 
- *	Nombre	Comentario
- *	Omar 	Agregue la funcion HolaSoyOmar
  *	Ana 	agregue mi nombre
  *	Leslie 	Agregue la funcion HolaSoyLeslie
  *	Andrea  Agregue mi nombre
