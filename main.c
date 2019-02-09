@@ -5,6 +5,7 @@
  *	Brian   Agregue la funcion HolaSoyBrian
  *	Diego Ivan Agregue la funcion HolaSoyDiegoI
  *	Francisco Agregué la función HolaSoyIsaac
+ *	Juan	Agregue la Funcion HolaSoyJuan
  * */
 
 
@@ -16,6 +17,12 @@ void HolaSoyOmar()
 void HolaSoyDiegoI()
 {
 	printf("Hola mi nombre en Diego Ivan\n");
+}
+
+void HolaSoyJuan()
+{
+	printf("Hola Mi nombre es Juan\n");
+
 }	
 
 void HolaSoyBrian ()
@@ -34,6 +41,9 @@ int main()
 	HolaSoyBrian();
 	HolaSoyDiegoI();
 	HolaSoyIsaac();
+	HolaSoyJuan();
+
+	return 0;
 
 }
 
