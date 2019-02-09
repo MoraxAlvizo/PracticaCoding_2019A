@@ -7,11 +7,9 @@
  *	Francisco Agregué la función HolaSoyIsaac
  *	Juan	Agregue la Funcion HolaSoyJuan
  *	Anthony: Agregue la funcion soytonyXD();
- *
  *	Nombre: Ricardo_Rios_Soto
  * 	Ricardo_Rios_Soto: Agregué la función "HolaSoyRicardo_Rios()"
- *
-
+ *	Kevin Sanchez Agregue la funcion HolaSoyKevin
  * */
 
 
@@ -31,6 +29,7 @@ void HolaSoyJuan()
 	printf("Hola Mi nombre es Juan\n");
 
 }	
+
 
 void soytonyXD(){
 
@@ -53,6 +52,11 @@ void HolaSoyIsaac()
 	printf("HOLA MI NOMBRE ES: Fracisco Isaac\n");
 }
 
+void HolaSoyKevin()
+{
+	printf("Hola mi nombre es Kevin Sanchez\n");
+}
+
 int main()
 {
 	HolaSoyOmar();
@@ -62,10 +66,11 @@ int main()
 	HolaSoyJuan();
 	HolaSoyRicardo_Rios();
 	soytonyXD();
-
-
-	return 0;
-
+	HolaSoyKevin();
 }
+
+
+
+
 
 
