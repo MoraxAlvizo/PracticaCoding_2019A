@@ -4,7 +4,8 @@
  *	Omar 	Agregue la funcion HolaSoyOmar
  *	
  *	Antonio Leaños y la verdad es que no soy gay
- * */
+ * 
+ */
 
 void HolaSoyOmar()
 {
