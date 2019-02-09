@@ -45,7 +45,7 @@
  *	Erick      Agregue la funcion holasoyerick
  *	Edwin	Agregue la funcion HolaSoyEdwin
  * 	Eduardo  Agregue la funcion HolaSoyEduardo
-
+ *	Axel Emmanuel Agregue la funcion HolaSoyEmma
  * */
 
 void HolaSoyOmar()
@@ -92,7 +92,6 @@ void HolaSoyKaleb()
 {
 	printf("Hola mi nombre es Kaleb Jimenez\n");
 }
-
 void HolaSoyIvan()
 {
 	printf("Hola mi nombre es Ivan Orozco\n(pero con acento xd)\n");
@@ -107,7 +106,6 @@ void HolasoyEzequiel()
 {
 	printf("Hola mi nombre es Ezequiel De la Torre\n");
 }	
-
 void HolaSoyDanielDiaz()
 {
         printf("Hola mi nombre es Daniel Diaz\n");
@@ -230,6 +228,12 @@ void HolaSoyEduardo()
 {
 	printf("Hola mi nombre es Eduardo Munoz\n");
 }
+
+void HolaSoyEmma()
+{
+        printf("Hola mi nombre es Axel Herrera\n");
+}
+
 int main()
 {
 	HolaSoyOmar();
@@ -276,6 +280,7 @@ int main()
 	holasoyerick();
 	HolaSoyEdwin();
 	HolaSoyEduardo();
+	HolaSoyEmma();
 	return 0;
 }
 
