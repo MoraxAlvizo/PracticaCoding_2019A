@@ -208,7 +208,7 @@ void HolaSoySydney()
 }
 void HolaSoyPablo(){
 	printf("Hola mi nombre es Pablo y no soy terrorista\n");
-
+}
 void HolaSoyPedro()
 {
 	printf("Hola mi nombre es Pedro Lopez y no soy terrorista\n");
