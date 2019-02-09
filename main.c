@@ -2,20 +2,17 @@
 /* 
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
-	Jerry      Agregue la función HolaSoyJerry
- *
- * */
+ *	Jerry      Agregue la función HolaSoyJerry
+ *	Erick      Agregue la funcion holasoyerick
+ *	
+ * */ 
 
 void HolaSoyOmar()
 {
 	printf("Hola mi nombre es Omar Alvizo\n");
-}	
-
-int main()
-{
-	HolaSoyOmar();
-	HolaSoyJerry();
-	return 0;
+}
+void holasoyerick(){
+printf ("hola mi nombre es Erick");
 }
 
 void HolaSoyJerry()
@@ -23,4 +20,12 @@ void HolaSoyJerry()
 	printf("Hola mi nombre es Jerry\n");
 }
 
+
+int main()
+{
+	HolaSoyOmar();
+	HolaSoyJerry();
+	holasoyerick();
+	return 0;
+}
 
