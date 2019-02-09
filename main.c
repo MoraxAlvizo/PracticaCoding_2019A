@@ -1,5 +1,4 @@
 #include <stdio.h>
-<<<<<<< HEAD
 /*
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
@@ -17,12 +16,25 @@
  *	Sujey	Agregue la funcion HolaSoySujey
  *      Daniel Diaz agregue  la funcion HolaSoyDanielDiaz
  *      Rocha Agregue la funcion HolaSoyAlejandroRocha
- * */
+ *	Julieta Agregue la funcion HolaSoyJulieta
+ *	David	Agregue la función HolaSoyDavid	
+ *	DanielM Agregue la funcion holaxd
+ *  	Paula Sofia Ramirez Angel Hize la funcion de PaulaRamirez
+ *	Diego Alejandro Rubio Contreras Agregue la funcion HolaSoyDiegoRubio
+ *	Jesus 	Agregue la funcion HolaSoyJesus
+ *	Axel    Agregue la funcion HolaSoyAxel
+ *	Joaquin	Agregue Funcion Joaquin
+ *	Diego 	Agregue la funcion HolaSoyDiegoG
+ *	Antonio Leaños y la verdad es que no soy gay
+ *	Alfred	Agregué mi nombre
+ *	Cristopher Agregué la función holaSoyCristopherPlascencia
+ */
 
 void HolaSoyOmar()
 {
 	printf("Hola mi nombre es Omar Alvizo\n");
 }
+
 
 void HolaSoyGabogod()
 {
@@ -77,31 +89,87 @@ void HolasoyEzequiel()
 {
 	printf("Hola mi nombre es Ezequiel De la Torre\n");
 }	
-
-
 void HolaSoyDanielDiaz()
 {
         printf("Hola mi nombre es Daniel Diaz\n");
 }
-	
 
 void HolaSoyAlejandroRocha()
 {
         printf("Hola mi nombre es Alejandro Rocha\n");
 }
+void HolaSoyJulieta()
+{
+	printf("Hola mi nombre es Julieta Renteria\n");
+}
 
+void HolaSoyDavid{
+	printf("Hola, mi nombre es David González\n");
+}	
 
+void holaxd()
+{
+	printf("Hola mi nombre es Daniel Martinez xd\n");
+}
 
+void PaulaRamirez()
+{
+    printf("No se programar :c\n");
+}
+
+void HolaSoyDiegoRubio()
+{
+	printf("Hola mi nombre es Diego Rubio\n");
+}	
+
+void HolaSoyJesus()
+{
+	printf("Hola mi nombre es Jesus Garcia\n");
+}		
+
+void HolaSoyDiegoG()
+{
+        printf("Hola mi nombre es Diego Garcia\n");
+}
+
+void HolaSoyAxel()
+{
+	printf("Hola mi nombre es Axel Cruz\n");
+}
+
+void Joaquin(){
+	printf("Hola soy Joaquin </3\n");
+}
+ void HolaMundo()
+{
+ printf("Hola me llamo Ñaños y soy gay XD");
+
+}
 void HolaSoySujey()
 {
 	printf("Hola mi nombre es Sujey Galvan\n");
 }
+void HolaSoyAlfred()
+{
+	printf("Hola mi nombre es Alfred Nieves\n");
+}	
+
+void holaSoyCristopherPlascencia()
+{
+printf("Hola mi nombre es Cristopher Plascencia\n");
+
+}
+
+
+
+
 
 int main()
 {
-        HolaSoyAndreCalderon();
 	HolaSoyOmar();
+
 	HolaSoyGabogod();
+        HolaSoyAndreCalderon();
 	HolaSoyTavo();
 	HolaSoyLeslie();
 	HolaSoyAna();
@@ -114,7 +182,19 @@ int main()
 	HolaSoySujey();
 	HolaSoyDanielDiaz();
 	HolaSoyAlejandroRocha();
-return 0;
+	HolaSoyJulieta();
+	HolaSoyOmar();
+	HolaSoyDavid();
+	holaxd();
+	PaulaRamirez();
+	HolaSoyDiegoRubio();
+	HolaSoyJesus();
+	HolaSoyAxel();
+	Joaquin();
+	HolaSoyDiegoG();
+	HolaMundo();
+	HolaSoyAlfred();
+	holaSoyCristopherPlascencia();
+	return 0;
 }
-
 
