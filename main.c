@@ -2,6 +2,7 @@
 /*
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
+
  *      Daniel G Agregue La funcion HolaSoyGabogod
  *      Gustavo Aguegue la funcion Holasoytavo
  *	Ana 	agregue mi nombre
@@ -16,8 +17,15 @@
  *	Sujey	Agregue la funcion HolaSoySujey
  *      Daniel Diaz agregue  la funcion HolaSoyDanielDiaz
  *      Rocha Agregue la funcion HolaSoyAlejandroRocha
+ *	Brian   Agregue la funcion HolaSoyBrian
+ *	Diego Ivan Agregue la funcion HolaSoyDiegoI
+ *	Francisco Agregué la función HolaSoyIsaac
+ *	Juan	Agregue la Funcion HolaSoyJuan
+ *	Anthony: Agregue la funcion soytonyXD();
+ * 	Ricardo_Rios_Soto: Agregué la función "HolaSoyRicardo_Rios()"
+ *	Kevin Sanchez Agregue la funcion HolaSoyKevin
  *	Julieta Agregue la funcion HolaSoyJulieta
- *	David	Agregue la función HolaSoyDavid	
+ *	David	Agregue la función HolaSoyDavid
  *	DanielM Agregue la funcion holaxd
  *  	Paula Sofia Ramirez Angel Hize la funcion de PaulaRamirez
  *	Diego Alejandro Rubio Contreras Agregue la funcion HolaSoyDiegoRubio
@@ -28,12 +36,16 @@
  *	Antonio Leaños y la verdad es que no soy gay
  *	Alfred	Agregué mi nombre
  *	Cristopher Agregué la función holaSoyCristopherPlascencia
- */
  *      Pablo   Agregue la funcion HolaSoyPablo
  *      Pedro   agregue la funcion HolaSoyPedro
  *
  * 	sydney agregue la funcion holaSoySydney
  *  	Turanzas Agregue la funcion HolaSoyTuranzas
+ *	Jerry      Agregue la función HolaSoyJerry
+ *	Erick      Agregue la funcion holasoyerick
+ *	Edwin	Agregue la funcion HolaSoyEdwin
+ * 	Eduardo  Agregue la funcion HolaSoyEduardo
+
  * */
 
 void HolaSoyOmar()
@@ -105,45 +117,67 @@ void HolaSoyAlejandroRocha()
 {
         printf("Hola mi nombre es Alejandro Rocha\n");
 }
+void HolaSoyDiegoI()
+{
+	printf("Hola mi nombre en Diego Ivan\n");
+}
+
+void HolaSoyJuan()
+{
+	printf("Hola Mi nombre es Juan\n");
+
+}
+void soytonyXD(){
+
+	printf("Hola mi nombre es Anthony Sandoval\n");
+}
+void HolaSoyRicardo_Rios()
+{
+	printf ("Hola mi nombre es Ricardo Rios Soto\n");
+}
+void HolaSoyBrian ()
+{
+	printf("Hola mi nombre Brian Gonzalez\n");
+}
+void HolaSoyIsaac()
+{
+	printf("HOLA MI NOMBRE ES: Fracisco Isaac\n");
+}
+void HolaSoyKevin()
+{
+	printf("Hola mi nombre es Kevin Sanchez\n");
+}
 void HolaSoyJulieta()
 {
 	printf("Hola mi nombre es Julieta Renteria\n");
 }
-
-void HolaSoyDavid{
-	printf("Hola, mi nombre es David González\n");
-}	
-
+void HolaSoyDavid(){
+	printf("Hola mi nombre es David González\n");
+}
 void holaxd()
 {
 	printf("Hola mi nombre es Daniel Martinez xd\n");
 }
-
 void PaulaRamirez()
 {
-    printf("No se programar :c\n");
+    printf("Hola mi nombre es Paula Ramirez No se programar :c\n");
 }
-
 void HolaSoyDiegoRubio()
 {
 	printf("Hola mi nombre es Diego Rubio\n");
-}	
-
+}
 void HolaSoyJesus()
 {
 	printf("Hola mi nombre es Jesus Garcia\n");
 }		
-
 void HolaSoyDiegoG()
 {
         printf("Hola mi nombre es Diego Garcia\n");
 }
-
 void HolaSoyAxel()
 {
 	printf("Hola mi nombre es Axel Cruz\n");
 }
-
 void Joaquin(){
 	printf("Hola soy Joaquin </3\n");
 }
@@ -166,18 +200,14 @@ void holaSoyCristopherPlascencia()
 printf("Hola mi nombre es Cristopher Plascencia\n");
 
 }
-
-
 void HolaSoyTuranzas()
 {
         printf("Hola mi nombre es Andrea Turanzas\n");
 }
-
 void HolaSoySydney()
 {
         printf("Hola mi nombre es Sydney Lopez\n");
 }
-
 void HolaSoyPablo(){
 	printf("Hola mi nombre es Pablo y no soy terrorista\n");
 
@@ -185,7 +215,21 @@ void HolaSoyPedro()
 {
 	printf("Hola mi nombre es Pedro Lopez y no soy terrorista\n");
 }
-
+void holasoyerick(){
+printf ("hola mi nombre es Erick\n");
+}
+void HolaSoyJerry()
+{
+	printf("Hola mi nombre es Jerry\n");
+}
+void HolaSoyEdwin()
+{
+	printf("Hola mi nombre es Edwin Nunez\n");
+}
+void HolaSoyEduardo()
+{
+	printf("Hola mi nombre es Eduardo Munoz\n");
+}
 int main()
 {
 	HolaSoyOmar();
@@ -206,6 +250,13 @@ int main()
 	HolaSoyAlejandroRocha();
 	HolaSoyJulieta();
 	HolaSoyOmar();
+	HolaSoyBrian();
+	HolaSoyDiegoI();
+	HolaSoyIsaac();
+	HolaSoyJuan();
+	HolaSoyRicardo_Rios();
+	soytonyXD();
+	HolaSoyKevin();
 	HolaSoyDavid();
 	holaxd();
 	PaulaRamirez();
@@ -221,6 +272,10 @@ int main()
 	HolaSoyPedro();
 	HolaSoySydney();
 	HolaSoyTuranzas();
+	HolaSoyJerry();
+	holasoyerick();
+	HolaSoyEdwin();
+	HolaSoyEduardo();
 	return 0;
 }
 
