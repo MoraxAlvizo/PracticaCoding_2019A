@@ -5,6 +5,7 @@
  *	Jesus 	Agregue la funcion HolaSoyJesus
  *	Axel    Agregue la funcion HolaSoyAxel
  *	Joaquin	Agregue Funcion Joaquin
+ *	Diego 	Agregue la funcion HolaSoyDiegoG
  *
  * */
 
@@ -18,6 +19,11 @@ void HolaSoyJesus()
 	printf("Hola mi nombre es Jesus Garcia\n");
 }		
 
+void HolaSoyDiegoG()
+{
+        printf("Hola mi nombre es Diego Garcia\n");
+}
+
 void HolaSoyAxel()
 {
 	printf("Hola mi nombre es Axel Cruz\n");
@@ -26,11 +32,13 @@ void HolaSoyAxel()
 void Joaquin(){
 	printf("Hola soy Joaquin </3\n");
 }
+
 int main()
 {
 	HolaSoyOmar();
 	HolaSoyJesus();
 	HolaSoyAxel();
 	Joaquin();
+	HolaSoyDiegoG();
 	return 0;
 }
