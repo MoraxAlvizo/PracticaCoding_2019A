@@ -6,7 +6,6 @@
  *	Sujey	Agregue la funcion HolaSoySujey
  *      Daniel Diaz agregue  la funcion HolaSoyDanielDiaz
  *      Rocha Agregue la funcion HolaSoyAlejandroRocha
-
  * */
 
 void HolaSoyOmar()
@@ -43,7 +42,7 @@ int main()
 	HolaSoySujey();
 	HolaSoyDanielDiaz();
 	HolaSoyAlejandroRocha();
+	HolaSoyAlejandroRocha();
 	return 0;
-
 }
 
