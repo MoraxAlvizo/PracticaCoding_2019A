@@ -12,7 +12,9 @@
  *	Joaquin	Agregue Funcion Joaquin
  *	Diego 	Agregue la funcion HolaSoyDiegoG
  *	Antonio Leaños y la verdad es que no soy gay
- * */
+ *	Alfred	Agregué mi nombre
+ *	Cristopher Agregué la función holaSoyCristopherPlascencia
+ */
 void HolaSoyOmar()
 {
 	printf("Hola mi nombre es Omar Alvizo\n");
@@ -67,6 +69,19 @@ void Joaquin(){
 }
 
 
+
+void HolaSoyAlfred()
+{
+	printf("Hola mi nombre es Alfred Nieves\n");
+}	
+
+void holaSoyCristopherPlascencia()
+{
+printf("Hola mi nombre es Cristopher Plascencia\n");
+
+}
+
+
 int main()
 {
 	HolaSoyJulieta();
@@ -80,6 +95,8 @@ int main()
 	Joaquin();
 	HolaSoyDiegoG();
 	HolaMundo();
+	HolaSoyAlfred();
+	holaSoyCristopherPlascencia();
 	return 0;
 }
 
