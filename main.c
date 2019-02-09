@@ -29,6 +29,12 @@
  *	Alfred	Agregué mi nombre
  *	Cristopher Agregué la función holaSoyCristopherPlascencia
  */
+ *      Pablo   Agregue la funcion HolaSoyPablo
+ *      Pedro   agregue la funcion HolaSoyPedro
+ *
+ * 	sydney agregue la funcion holaSoySydney
+ *  	Turanzas Agregue la funcion HolaSoyTuranzas
+ * */
 
 void HolaSoyOmar()
 {
@@ -89,6 +95,7 @@ void HolasoyEzequiel()
 {
 	printf("Hola mi nombre es Ezequiel De la Torre\n");
 }	
+
 void HolaSoyDanielDiaz()
 {
         printf("Hola mi nombre es Daniel Diaz\n");
@@ -161,8 +168,23 @@ printf("Hola mi nombre es Cristopher Plascencia\n");
 }
 
 
+void HolaSoyTuranzas()
+{
+        printf("Hola mi nombre es Andrea Turanzas\n");
+}
 
+void HolaSoySydney()
+{
+        printf("Hola mi nombre es Sydney Lopez\n");
+}
 
+void HolaSoyPablo(){
+	printf("Hola mi nombre es Pablo y no soy terrorista\n");
+
+void HolaSoyPedro()
+{
+	printf("Hola mi nombre es Pedro Lopez y no soy terrorista\n");
+}
 
 int main()
 {
@@ -195,6 +217,10 @@ int main()
 	HolaMundo();
 	HolaSoyAlfred();
 	holaSoyCristopherPlascencia();
+	HolaSoyPablo();
+	HolaSoyPedro();
+	HolaSoySydney();
+	HolaSoyTuranzas();
 	return 0;
 }
 
