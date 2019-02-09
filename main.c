@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* 
+/*
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
  *	Brian   Agregue la funcion HolaSoyBrian
@@ -10,13 +10,18 @@
  *	Nombre: Ricardo_Rios_Soto
  * 	Ricardo_Rios_Soto: Agregué la función "HolaSoyRicardo_Rios()"
  *	Kevin Sanchez Agregue la funcion HolaSoyKevin
+ *	Julieta Agregue la funcion HolaSoyJulieta
+ *	David	Agregue la función HolaSoyDavid
+ *	DanielM Agregue la funcion holaxd
+ *  	Paula Sofia Ramirez Angel Hize la funcion de PaulaRamirez
+ *	Diego Alejandro Rubio Contreras Agregue la funcion HolaSoyDiegoRubio
  * */
-
 
 void HolaSoyOmar()
 {
 	printf("Hola mi nombre es Omar Alvizo\n");
 }
+
 
 
 void HolaSoyDiegoI()
@@ -28,7 +33,7 @@ void HolaSoyJuan()
 {
 	printf("Hola Mi nombre es Juan\n");
 
-}	
+}
 
 
 void soytonyXD(){
@@ -57,8 +62,35 @@ void HolaSoyKevin()
 	printf("Hola mi nombre es Kevin Sanchez\n");
 }
 
+void HolaSoyJulieta()
+{
+	printf("Hola mi nombre es Julieta Renteria\n");
+}
+
+void HolaSoyDavid(){
+	printf("Hola mi nombre es David González\n");
+}
+
+void holaxd()
+{
+	printf("Hola mi nombre es Daniel Martinez xd\n");
+}
+
+void PaulaRamirez()
+{
+    printf("Hola mi nombre es Paula Ramirez No se programar :c\n");
+}
+
+void HolaSoyDiegoRubio()
+{
+	printf("Hola mi nombre es Diego Rubio\n");
+}
+
+
+
 int main()
 {
+	HolaSoyJulieta();
 	HolaSoyOmar();
 	HolaSoyBrian();
 	HolaSoyDiegoI();
@@ -67,10 +99,11 @@ int main()
 	HolaSoyRicardo_Rios();
 	soytonyXD();
 	HolaSoyKevin();
+	HolaSoyDavid();
+	holaxd();
+	PaulaRamirez();
+	HolaSoyDiegoRubio();
+	return 0;
 }
-
-
-
-
 
 
