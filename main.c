@@ -1,4 +1,5 @@
 #include <stdio.h>
+<<<<<<< HEAD
 /*
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
@@ -14,15 +15,16 @@
  *	Leslie 	Agregue la funcion HolaSoyLeslie
  *	Andrea  Agregue mi nombre
  *	Ivan 	Agregue la funcion HolaSoyIvan
- *
- * */
+ *      Kaleb	Agregue la funciopn HolaSoyKaleb
+ *	Max 	Agregue la funcion HolaSoyAndreCalderon
+ *	Jair  	Agregue la funcion HolaSoyJair
+ */
 
 
 void HolaSoyOmar()
 {
 	printf("Hola mi nombre es Omar Alvizo\n");
 }
-
 
 void HolaSoyGabogod()
 {
@@ -47,7 +49,21 @@ void HolaSoyAna()
 void HolaSoyAndrea()
 {
 	printf("Hola mi nombre es Andrea Denise\n");
-}	
+}
+void HolaSoyJair()
+{
+	printf("Hola mi nombre es Jair Orozco\n");
+}
+	
+void HolaSoyAndreCalderon()
+{
+	printf("Hola mi nombre es Andre Calderon\n");
+}
+
+void HolaSoyKaleb()
+{
+	printf("Hola mi nombre es Kaleb Jimenez\n");
+}
 
 
 void HolaSoyIvan()
@@ -57,6 +73,7 @@ void HolaSoyIvan()
 
 int main()
 {
+        HolaSoyAndreCalderon();
 	HolaSoyOmar();
 	HolaSoyGabogod();
 	HolaSoyTavo();
@@ -64,5 +81,9 @@ int main()
 	HolaSoyAna();
 	HolaSoyAndrea();
 	HolaSoyIvan();
+	HolaSoyKaleb();
+	HolaSoyJair();
 	return 0;
 }
+
+
