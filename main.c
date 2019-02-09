@@ -1,10 +1,11 @@
 #include <stdio.h>
-/* 
- *	Nombre	Comentario
- *	Anthony: Agregue la funcion soytonyXD();
+/*
+ * 	Nombre	Comentario
+ *	Omar	Agregue la funcion HolaSoyOmar
+ *	Anthony	Agregue la funcion soytonyXD();
+ * 	Ricardo Agregué la función HolaSoyRicardo_Rios()
  *
- *	Nombre: Ricardo_Rios_Soto
- * 	Ricardo_Rios_Soto: Agregué la función "HolaSoyRicardo_Rios()"
+ *
  *
  * */
 
