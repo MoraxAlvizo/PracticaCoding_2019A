@@ -14,7 +14,7 @@ void HolaSoyOmar()
 
 void HolaSoyHector()
 {
-        printf("Hola mi nombre es Hector\n");
+        printf("Hola mi nombre es Hector y soy elcacas\n");
 }
 
 
