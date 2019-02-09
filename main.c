@@ -1,7 +1,7 @@
 #include <stdio.h>
 /* 
  *	Nombre	Comentario
- *	Omar 	Agregue la funcion HolaSoyOmar
+ *	Anthony: Agregue la funcion soytonyXD();
  *
  *	Nombre: Ricardo_Rios_Soto
  * 	Ricardo_Rios_Soto: Agregué la función "HolaSoyRicardo_Rios()"
@@ -11,7 +11,12 @@
 void HolaSoyOmar()
 {
 	printf("Hola mi nombre es Omar Alvizo\n");
-}	
+}
+
+void soytonyXD(){
+
+	printf("Hola mi nombre es Anthony Sandoval\n");
+}
 
 void HolaSoyRicardo_Rios()
 {
@@ -22,5 +27,7 @@ int main()
 {
 	HolaSoyOmar();
 	HolaSoyRicardo_Rios();
+	soytonyXD();
+
 	return 0;
 }
