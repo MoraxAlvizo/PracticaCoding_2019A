@@ -20,6 +20,6 @@ void HolaSoyAlejandroRocha()
 int main()
 {
 	HolaSoyOmar();
-	HolaSoyAlejandroRocha
-return 0;
+	HolaSoyAlejandroRocha();
+	return 0;
 }
