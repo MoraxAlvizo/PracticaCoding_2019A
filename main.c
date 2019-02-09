@@ -114,8 +114,7 @@ int main()
 	HolaSoySujey();
 	HolaSoyDanielDiaz();
 	HolaSoyAlejandroRocha();
-	HolaSoyAlejandroRocha();
-	return 0;
+return 0;
 }
 
 
