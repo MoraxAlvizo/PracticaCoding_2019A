@@ -3,6 +3,7 @@
 /*
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
+<<<<<<< HEAD
 
  *      Daniel G Agregue La funcion HolaSoyGabogod
 
@@ -18,8 +19,8 @@
  *      Kaleb	Agregue la funciopn HolaSoyKaleb
  *	Max 	Agregue la funcion HolaSoyAndreCalderon
  *	Jair  	Agregue la funcion HolaSoyJair
- */
-
+ *	Hector agregue la funcion HolaSoyHector
+ * */
 
 void HolaSoyOmar()
 {
@@ -65,11 +66,16 @@ void HolaSoyKaleb()
 	printf("Hola mi nombre es Kaleb Jimenez\n");
 }
 
-
 void HolaSoyIvan()
 {
 	printf("Hola mi nombre es Ivan Orozco\n");
 }
+
+void HolaSoyHector()
+{
+        printf("Hola mi nombre es Hector\n Y estoy bien muerto\n");
+}
+
 
 int main()
 {
@@ -83,6 +89,8 @@ int main()
 	HolaSoyIvan();
 	HolaSoyKaleb();
 	HolaSoyJair();
+	HolaSoyHector();
+
 	return 0;
 }
 
