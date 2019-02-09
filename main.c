@@ -2,13 +2,11 @@
 /*
  *	Nombre	Comentario
  *	Omar 	Agregue la funcion HolaSoyOmar
-<<<<<<< HEAD
  *	Brian   Agregue la funcion HolaSoyBrian
  *	Diego Ivan Agregue la funcion HolaSoyDiegoI
  *	Francisco Agregué la función HolaSoyIsaac
  *	Juan	Agregue la Funcion HolaSoyJuan
  *	Anthony: Agregue la funcion soytonyXD();
- *	Nombre: Ricardo_Rios_Soto
  * 	Ricardo_Rios_Soto: Agregué la función "HolaSoyRicardo_Rios()"
  *	Kevin Sanchez Agregue la funcion HolaSoyKevin
  *	Julieta Agregue la funcion HolaSoyJulieta
@@ -16,20 +14,16 @@
  *	DanielM Agregue la funcion holaxd
  *  	Paula Sofia Ramirez Angel Hize la funcion de PaulaRamirez
  *	Diego Alejandro Rubio Contreras Agregue la funcion HolaSoyDiegoRubio
- * */
-=======
  *	Jerry      Agregue la función HolaSoyJerry
  *	Erick      Agregue la funcion holasoyerick
- *	
- * */ 
->>>>>>> origin/jerry_rama
+ *	Edwin	Agregue la funcion HolaSoyEdwin
+ * 	Eduardo  Agregue la funcion HolaSoyEduardo
+ * */
 
 void HolaSoyOmar()
 {
 	printf("Hola mi nombre es Omar Alvizo\n");
 }
-<<<<<<< HEAD
-
 
 
 void HolaSoyDiegoI()
@@ -95,9 +89,8 @@ void HolaSoyDiegoRubio()
 }
 
 
-=======
 void holasoyerick(){
-printf ("hola mi nombre es Erick");
+printf ("hola mi nombre es Erick\n");
 }
 
 void HolaSoyJerry()
@@ -105,13 +98,20 @@ void HolaSoyJerry()
 	printf("Hola mi nombre es Jerry\n");
 }
 
->>>>>>> origin/jerry_rama
+void HolaSoyEdwin()
+{
+	printf("Hola mi nombre es Edwin Nunez\n");
+}
+
+void HolaSoyEduardo()
+{
+	printf("Hola mi nombre es Eduardo Munoz\n");
+}
 
 int main()
 {
 	HolaSoyJulieta();
 	HolaSoyOmar();
-<<<<<<< HEAD
 	HolaSoyBrian();
 	HolaSoyDiegoI();
 	HolaSoyIsaac();
@@ -123,14 +123,10 @@ int main()
 	holaxd();
 	PaulaRamirez();
 	HolaSoyDiegoRubio();
-	return 0;
-}
-
-
-=======
 	HolaSoyJerry();
 	holasoyerick();
+	HolaSoyEdwin();
+	HolaSoyEduardo();
 	return 0;
 }
 
->>>>>>> origin/jerry_rama
