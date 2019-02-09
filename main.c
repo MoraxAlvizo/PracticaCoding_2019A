@@ -7,6 +7,8 @@
  *	Joaquin	Agregue Funcion Joaquin
  *	Diego 	Agregue la funcion HolaSoyDiegoG
  *
+ *	
+ *	Antonio Leaños y la verdad es que no soy gay
  * */
 
 void HolaSoyOmar()
@@ -32,6 +34,10 @@ void HolaSoyAxel()
 void Joaquin(){
 	printf("Hola soy Joaquin </3\n");
 }
+ void HolaMundo()
+{
+ printf("Hola me llamo Ñaños y soy gay XD");
+}
 
 int main()
 {
@@ -40,5 +46,5 @@ int main()
 	HolaSoyAxel();
 	Joaquin();
 	HolaSoyDiegoG();
-	return 0;
+	HolaMundo();
 }
