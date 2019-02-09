@@ -7,6 +7,11 @@
  *	DanielM Agregue la funcion holaxd
  *  	Paula Sofia Ramirez Angel Hize la funcion de PaulaRamirez
  *	Diego Alejandro Rubio Contreras Agregue la funcion HolaSoyDiegoRubio
+ *	Jesus 	Agregue la funcion HolaSoyJesus
+ *	Axel    Agregue la funcion HolaSoyAxel
+ *	Joaquin	Agregue Funcion Joaquin
+ *	Diego 	Agregue la funcion HolaSoyDiegoG
+ *	Antonio Leaños y la verdad es que no soy gay
  * */
 void HolaSoyOmar()
 {
@@ -38,6 +43,29 @@ void HolaSoyDiegoRubio()
 	printf("Hola mi nombre es Diego Rubio\n");
 }	
 
+void HolaSoyJesus()
+{
+	printf("Hola mi nombre es Jesus Garcia\n");
+}		
+
+void HolaSoyDiegoG()
+{
+        printf("Hola mi nombre es Diego Garcia\n");
+}
+
+void HolaSoyAxel()
+{
+	printf("Hola mi nombre es Axel Cruz\n");
+}
+
+void Joaquin(){
+	printf("Hola soy Joaquin </3\n");
+}
+ void HolaMundo()
+{
+ printf("Hola me llamo Ñaños y soy gay XD");
+}
+
 
 int main()
 {
@@ -47,6 +75,11 @@ int main()
 	holaxd();
 	PaulaRamirez();
 	HolaSoyDiegoRubio();
+	HolaSoyJesus();
+	HolaSoyAxel();
+	Joaquin();
+	HolaSoyDiegoG();
+	HolaMundo();
 	return 0;
 }
 
